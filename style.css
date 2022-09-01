@@ -1,0 +1,14 @@
+.center-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-2{
+    display: grid;
+    place-items: center;
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
